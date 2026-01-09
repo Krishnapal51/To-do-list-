@@ -1,8 +1,4 @@
-# Python Mini Projects
-
-This repository contains two beginner-friendly Python projects developed to strengthen logical thinking, control flow, and basic data handling.
-
----
+# Python Mini Project
 
 ## 📝 Project 1: To-Do List Application
 
